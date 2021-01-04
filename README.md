@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I am Atul 👋
+
+- 👯 I’m looking to collaborate on Open Source
+
+<br/>
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/azadatul/
 
 <!--
 **azadatul/azadatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
